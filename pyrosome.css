@@ -123,9 +123,16 @@
     min-height: 408px;
   }
 
+  .u-section-1 .u-shape-1 {
+    height: 350px;
+    margin-top: 29px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-1 .u-layout-wrap-1 {
-    margin-top: -368px;
-    margin-bottom: 40px;
+    margin-top: -359px;
+    margin-bottom: 20px;
     margin-right: initial;
     margin-left: initial;
     width: auto;

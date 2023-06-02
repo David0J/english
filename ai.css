@@ -226,6 +226,7 @@
 }
 
 .u-section-2 .u-btn-2 {
+  font-size: 1.875rem;
   padding: 0;
 }
 
@@ -237,10 +238,6 @@
   .u-section-2 .u-text-1 {
     margin-left: 9px;
     margin-right: 9px;
-  }
-
-  .u-section-2 .u-btn-2 {
-    font-size: 1.875rem;
   }
 }
 
